@@ -1,0 +1,3 @@
+{"name":"short_chat","prompt":"Explain overfitting in one sentence."}
+{"name":"tool_use","prompt":"You are a coding assistant. Write a Python function to check if a string is a palindrome."}
+{"name":"long_context","prompt":"Read the context below and summarize the three most important ideas:\n\n[Paste ~1–2 pages of any tech article here]\n\nNow, write the summary."}

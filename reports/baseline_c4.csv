@@ -1,0 +1,16 @@
+e2e_s,ttft_s,completion_tokens,prompt_tokens,total_tokens,prompt_name,run_id,concurrency,max_tokens,temperature,stream
+0.679560262709856,,37,44,81,short_chat,0,4,128,0.0,False
+0.5038919625803828,,37,44,81,short_chat,1,4,128,0.0,False
+0.5016336431726813,,37,44,81,short_chat,2,4,128,0.0,False
+0.5016032746061683,,37,44,81,short_chat,3,4,128,0.0,False
+0.5022155977785587,,37,44,81,short_chat,4,4,128,0.0,False
+1.7320547178387642,,128,54,182,tool_use,0,4,128,0.0,False
+1.7332575358450413,,128,54,182,tool_use,1,4,128,0.0,False
+1.7347432486712933,,128,54,182,tool_use,2,4,128,0.0,False
+1.737224206328392,,128,54,182,tool_use,3,4,128,0.0,False
+1.735612298361957,,128,54,182,tool_use,4,4,128,0.0,False
+0.4359255414456129,,32,66,98,long_context,0,4,128,0.0,False
+0.4359255712479353,,32,66,98,long_context,1,4,128,0.0,False
+0.43661169335246086,,32,66,98,long_context,2,4,128,0.0,False
+0.435928575694561,,32,66,98,long_context,3,4,128,0.0,False
+0.4359790999442339,,32,66,98,long_context,4,4,128,0.0,False
